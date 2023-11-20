@@ -1,0 +1,13 @@
+:root {
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+}
+
+canvas {
+  width: 100% !important;
+  height: 100vh !important;
+}
